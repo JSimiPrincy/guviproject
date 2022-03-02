@@ -1,0 +1,34 @@
+.Books {
+    background-color: skyblue;
+}
+.fetchdata {
+    min-width: 150px;
+    margin-bottom: 30px;
+    padding: 15px;
+    font-size: 1em;
+    border-radius: 5px;
+    background-color: white;
+    cursor: pointer;
+    border: none;
+    color: skyblue;
+    transition: all 0.5s
+}
+
+.books {
+    display: -webkit-inline-flex;
+    flex-wrap: wrap;
+}
+.book {
+    background: #fff;
+    position: relative;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px;
+    width: 47%;
+    color: #333;
+    flex-basis: width;
+    background-color: rgb(165, 230,230);
+}
+.details {
+    text-align: left;
+}

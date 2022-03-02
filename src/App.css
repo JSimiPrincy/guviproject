@@ -1,0 +1,15 @@
+
+.navbar {
+  display: flex;
+  align-items: center;
+  background-color: rebeccapurple;
+  color: white;
+  font-family: Helvetica;
+  font-size: 300;
+}
+.items {
+  padding: 16px 20px;
+  cursor: pointer;
+  vertical-align: middle;
+}
+
